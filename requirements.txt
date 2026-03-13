@@ -1,5 +1,11 @@
 streamlit
-openai
-langchain
-pypdf
 pinecone
+sentence-transformers
+groq
+pypdf2
+python-dotenv
+numpy
+scikit-learn
+torch
+transformers
+tqdm
