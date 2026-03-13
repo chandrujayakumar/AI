@@ -1,7 +1,7 @@
 from groq import Groq
 
 client = Groq(
-    api_key="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"
+    api_key="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"
 )
 
 def summarize_clauses(clauses):
