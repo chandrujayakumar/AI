@@ -3,6 +3,7 @@ pinecone
 sentence-transformers
 groq
 pypdf2
+pypdf
 python-dotenv
 numpy
 scikit-learn
