@@ -2,7 +2,7 @@ from groq import Groq
 
 from utils.vector_store import query_relevant_chunks
 
-client = Groq(api_key="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")
+client = Groq(api_key="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")
 
 
 def analyze_with_role(role, text):
